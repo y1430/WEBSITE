@@ -1,0 +1,41 @@
+
+h1{
+    color:aquamarine;
+    margin-left:30px;
+}
+
+
+.header{
+    color:#8206ff;
+    background-color:#5ACDF0;
+    display:flex;
+    justify-content: space-between;
+    border:solid
+}
+
+.grid{
+    background-color:#FCBAD5;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly
+    
+}
+
+.item{
+    background-color:#BAE4FC;
+    color: #ffffff;
+   position:relative;
+}
+
+
+.description {
+    background-color: #FCBAD5;
+}
+
+a:link{
+    color:white;
+}
+
+a:visited{
+    color:black;
+}
